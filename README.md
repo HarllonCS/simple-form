@@ -28,7 +28,7 @@ git clone https://github.com/HarllonCS/simple-form.git
 
 ## LICENSE
 
-This project is free for study and learning purposes. Consult the [LICENSE](./LICENSE) for more information.
+This project is free for study and learning purposes. Consult the **[LICENSE](./LICENSE)** for more information.
 
 ## Author and Credits
 
