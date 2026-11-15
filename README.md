@@ -12,7 +12,12 @@ The form is organized into two main sections using the `<fieldset>` tag:
    - **Password**: Password field with hidden characters.
 
 2. **Person Type**:
-   - Selection to identify whether the registration is for an **Individual (CPF)** or a **Legal Entity (CNPJ / PJ)**.
+   - **Individual (CPF)**: Selection option for individual registration.
+   - **Legal Entity (PJ)**: Selection option for business registration.
+
+## How It Works
+
+When filling out the fields and clicking the **Submit** button, the form redirects the user to a generic page (`process.html`), simulating the receipt and processing of the submitted data.
 
 ## Tech Stack
 
